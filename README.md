@@ -1,0 +1,1 @@
+This is a simple frontend programming project to better understand how to use the existing api database by using the api key for the specific use case (movies for this instance) to create a dynamic website that lets the user view any movies they can find that is included in the Movies API Database.
